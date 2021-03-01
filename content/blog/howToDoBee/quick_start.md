@@ -1,7 +1,7 @@
 ---
 title: 'Quick Start'
 date: 2020-07-05 17:21:13
-category: 'development'
+category: 'HowToDoBee'
 draft: false
 ---
 
@@ -40,7 +40,7 @@ You can write...
 
 ### Support script for creating new post
 
-![](./images/cli-tool-example.gif)
+![](imagesli-tool-example.gif)
 
 ```sh
 $ npm run post
