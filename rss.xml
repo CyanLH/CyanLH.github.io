@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CyanLH.github.io]]></title><description><![CDATA[개발 공부에 끝은 없다...]]></description><link>https://CyanLH.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 01 Mar 2021 15:50:52 GMT</lastBuildDate><item><title><![CDATA[블로그 시작]]></title><description><![CDATA[블로그 시작 좀 늦은 감이 있지만… 야근핑계, 약속핑계 대며 미뤄두었던 개발 블로그를 시작해 보려 한다. 블로그를 시작 해 보기 전 여러 플랫폼을 탐색 해 보았다. 티스토리, 네이버블로그, velog, medium…]]></description><link>https://CyanLH.github.io/Life/블로그-시작/</link><guid isPermaLink="false">https://CyanLH.github.io/Life/블로그-시작/</guid><pubDate>Mon, 01 Mar 2021 22:03:33 GMT</pubDate><content:encoded>&lt;h1 id=&quot;블로그-시작&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91&quot; aria-label=&quot;블로그 시작 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;블로그 시작&lt;/h1&gt;
+&lt;p&gt;좀 늦은 감이 있지만… 야근핑계, 약속핑계 대며 미뤄두었던 개발 블로그를 시작해 보려 한다.&lt;/p&gt;
+&lt;p&gt;블로그를 시작 해 보기 전 여러 플랫폼을 탐색 해 보았다.&lt;/p&gt;
+&lt;p&gt;티스토리, 네이버블로그, velog, medium 등 많은 기존 서비스들이 있었다.&lt;/p&gt;
+&lt;p&gt;어릴때 잠깐 티스토리 블로그를 운영 해 본 경험이 있어서 티스토리로 만들까도 생각해 봤지만, github pages를 활용해 보고싶어 관련 서비스를 알아보던중 jekyll보다는 react를 활용하고 싶어 gatsby를 선택하게 되었다.&lt;/p&gt;
+&lt;p&gt;(특히 jbee님의 템플릿이 맘에 들었던 것도 한몫 했다)&lt;/p&gt;
+&lt;p&gt;아직 마크다운 문법도 잘 모르고 gatsby도 잘 몰라 템플릿을 받아 사용하고 마크다운도 notion을 활용하고 있지만, 명색이 react 개발자니 앞으로 공부해 최대한 활용해 보려고 한다.&lt;/p&gt;
+&lt;p&gt;front-end 개발 관련 지식 정리, 관심 있는 기술 관련 포스팅 등등 해보고 싶은 것들이 많다. 쉽지는 않겠지만 차근차근 하나씩 글을 쌓아봐야겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[이한 : 끊임 없이 생각하는 개발자💻 📧 dlgksk5@gmail.com 📞 010-3768-7719 enbrix🌏 http://www.enbrix.net/kr/img/logo_b.png 🏢 (주)엔엑스테크놀로지 🗓️ 2019.0…]]></description><link>https://CyanLH.github.io/resume-en/</link><guid isPermaLink="false">https://CyanLH.github.io/resume-en/</guid><pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;이한--끊임-없이-생각하는-개발자&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9D%B4%ED%95%9C--%EB%81%8A%EC%9E%84-%EC%97%86%EC%9D%B4-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90&quot; aria-label=&quot;이한  끊임 없이 생각하는 개발자 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;이한 : 끊임 없이 생각하는 개발자💻&lt;/h1&gt;
+&lt;p&gt;📧 dlgksk5@gmail.com&lt;/p&gt;
+&lt;p&gt;📞 010-3768-7719&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;enbrix&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#enbrix&quot; aria-label=&quot;enbrix permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;http://www.enbrix.net&quot;&gt;enbrix&lt;/a&gt;🌏&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.enbrix.net/kr/img/logo_b.png&quot; alt=&quot;http://www.enbrix.net/kr/img/logo_b.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;🏢 (주)엔엑스테크놀로지&lt;/p&gt;
+&lt;p&gt;🗓️ 2019.09 - 현재&lt;/p&gt;
+&lt;p&gt;⌨️ JavaScript React HTML5 SCSS NextJS i18next&lt;/p&gt;
+&lt;p&gt;👨‍💻 enbrix 서비스 프론트엔드 개발, 운용, 배포 담당&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;EMS의 기능을 완벽히 포함한 스마트 빌딩 ∙ 팩토리 솔루션
+높은 에너지 절감 ∙ 합리적 비용 ∙ 쉬운 운영 ∙ 에너지 절감 추적&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;IoT 장치 18800대 실시간 모니터링/제어🖥️&lt;/li&gt;
+&lt;li&gt;데이터 분석 후 에너지 실시간 사용량, 누적 사용량, 절감량 등 시각화 데이터 제공📊&lt;/li&gt;
+&lt;li&gt;i18next를 이용한 다국어 지원 (한국어/영어)💬&lt;/li&gt;
+&lt;li&gt;기존 서비스의 성능 개선 작업을 통해 95% 성능 향상 달성🚀&lt;/li&gt;
+&lt;li&gt;실시간 공정 진행상황 확인 기능 개발 프로젝트 참여&lt;/li&gt;
+&lt;li&gt;HVAC 실시간 모니터링 제어 기능 개발 프로젝트 참여&lt;/li&gt;
+&lt;li&gt;대시보드 UI/UX 및 성능 개선 프로젝트 참여&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;gudocam&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#gudocam&quot; aria-label=&quot;gudocam permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gudocam&amp;#x26;hl=ko&amp;#x26;gl=US&quot;&gt;GudoCam&lt;/a&gt;📷&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://play-lh.googleusercontent.com/oQLCNliJj_GDqguvOgoVG3IrJP45XrOVe_bm_3pjvcRzmvTKIQPH6W_2-EkawygCEGjo=s360-rw&quot;&gt;https://play-lh.googleusercontent.com/oQLCNliJj&lt;em&gt;GDqguvOgoVG3IrJP45XrOVe&lt;/em&gt;bm&lt;em&gt;3pjvcRzmvTKIQPH6W&lt;/em&gt;2-EkawygCEGjo=s360-rw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🏢 울산대학교&lt;/p&gt;
+&lt;p&gt;🗓️ 2018.09 - 2019.06&lt;/p&gt;
+&lt;p&gt;⌨️ Android Java TensorflowLite&lt;/p&gt;
+&lt;p&gt;👨‍💻기획, 안드로이드 앱 개발, 데이터 분류 담당&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;아름다운 촬영 결과물은 정확한 비율과 적절한 피사체의 배치로부터 나옵니다.
+GudoCam(구도캠)은 인공지능을 통해 촬영자에게 현 화상에 가장 적합한 구도의 가이드라인을 제안하는 촬영 구도 가이드 카메라 앱 입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;🏅구글 플레이 사진 카테고리 급상승 10위, 5000+ 다운로드🚀&lt;/li&gt;
+&lt;li&gt;🏆울산대학교 IT융합학부 2019년 졸업작품 전시회 우수상&lt;/li&gt;
+&lt;li&gt;수만장 화상 데이터를 기반으로 14가지 구도 추천&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;skill&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#skill&quot; aria-label=&quot;skill permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Skill&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;능숙함&lt;/strong&gt;
+JavaScript(ES6+)
+React
+HTML5
+CSS
+Next.JS
+git/bitbucket&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;다룰 수 있음&lt;/strong&gt;
+Node.JS
+SCSS
+MobX
+Android
+Java
+C/C++
+Python&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[Your name Thank you for reading my resume. If you want to contact me, Please send me an email.]]></description><link>https://CyanLH.github.io/bak/</link><guid isPermaLink="false">https://CyanLH.github.io/bak/</guid><pubDate>Sun, 27 Jan 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;your-name&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#your-name&quot; aria-label=&quot;your name permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Your name&lt;/h1&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;p&gt;&lt;em&gt;Thank you for reading my resume. If you want to contact me, Please send me an email.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item></channel></rss>
