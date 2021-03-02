@@ -29,6 +29,17 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-figure-caption`,
+            options: {figureClassName: 'md-figure'},
+          },
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "nofollow"
+            }
+          },
+          {
             resolve: `gatsby-remark-katex`,
             options: {
               strict: `ignore`,
