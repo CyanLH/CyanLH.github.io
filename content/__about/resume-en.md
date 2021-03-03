@@ -14,7 +14,8 @@ lang: 'en'
 
 # [enbrix](http://www.enbrix.net)🌏
 
-![](http://www.enbrix.net/kr/img/logo_b.png)
+<!-- ![](http://www.enbrix.net/kr/img/logo_b.png) -->
+<img src="http://www.enbrix.net/kr/img/logo_b.png" height="30px" />
 
 🏢 (주)엔엑스테크놀로지
 
@@ -35,10 +36,10 @@ lang: 'en'
 - HVAC 실시간 모니터링 제어 기능 개발 프로젝트 참여
 - 대시보드 UI/UX 및 성능 개선 프로젝트 참여
 
-# [GudoCam](https://play.google.com/store/apps/details?id=com.gudocam&hl=ko&gl=US)📷
+# [GudoCam](https://play.google.com/store/apps/details?id=com.gudocam&hl=ko&gl=US )📷
 
 <!-- ![](https://play-lh.googleusercontent.com/oQLCNliJj_GDqguvOgoVG3IrJP45XrOVe_bm_3pjvcRzmvTKIQPH6W_2-EkawygCEGjo=s360-rw) -->
-<img src="https://play-lh.googleusercontent.com/oQLCNliJj_GDqguvOgoVG3IrJP45XrOVe_bm_3pjvcRzmvTKIQPH6W_2-EkawygCEGjo=s360-rw" width="120px" />
+<img src="https://play-lh.googleusercontent.com/oQLCNliJj_GDqguvOgoVG3IrJP45XrOVe_bm_3pjvcRzmvTKIQPH6W_2-EkawygCEGjo=s360-rw" width="60px" />
 
 🏢 울산대학교
 
